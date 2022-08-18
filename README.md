@@ -11,7 +11,7 @@ Include
 
 Members 
 
-- Gazi Turan Semercioğlu [Github](https://duckduckgo.com)
+- Gazi Turan Semercioğlu [Github](https://github.com/gazituransemercioglu)
 - İsmail Şengül  [Github](https://github.com/ismailsengul)
 - Yunus Emre Çınar  [Github](https://github.com/Yunuscinar41)
 - Ali Çolak [Github](https://github.com/alicolak64)
